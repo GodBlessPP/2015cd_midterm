@@ -188,6 +188,7 @@ class Hello(object):
     <body onload="brython()">
         
     <form method=POST action=mygeartest2>
+    學號:40223248<br />
     齒數:<input type=text name=N><br />
     模數:<input type=text name=M><br />
     壓力角:<input type=text name=P><br />
